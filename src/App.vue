@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld/>
+    <AdvIndex/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import AdvIndex from './components/AdvIndex.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    AdvIndex
   }
 }
 </script>
